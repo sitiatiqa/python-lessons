@@ -25,16 +25,5 @@ The goal of this repository is to:
 - Basic automation and scripting  
 - Logical thinking and problem solving
 
-## Tools Used
-
-- Python
-- Google Colab
-
-## How to Use
-
-Feel free to browse the folders and scripts. Each file contains practice code and comments explaining the logic.
-
-## Purpose
-
-This repository is for educational purposes and self-learning. Feedback and suggestions are welcome!
+More projects will be added over time.
 
