@@ -25,5 +25,5 @@ The goal of this repository is to:
 - Basic automation and scripting  
 - Logical thinking and problem solving
 
-More projects will be added over time.
+More lessons will be added over time.
 
